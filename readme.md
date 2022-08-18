@@ -666,6 +666,7 @@
 | [AniX](https://drawcall.github.io/AniX/)| Super easy and lightweight css animation library. |
 | [AOS](https://michalsnik.github.io/aos/) | Animate On Scroll Library. |
 | [Animatopy](https://sarthology.github.io/Animatopy/) | Just-add-water CSS animations snippets |
+| [CSS Interesting Animations](https://www.scaler.com/topics/css/animation-css/#interesting-animations-you-should-try) | Interesting beautiful and eye-catching animations You Should Try |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
